@@ -23,7 +23,7 @@ Erba Coders is a social network application built using Flutter. It allows users
 1. Clone the repository:
     ```sh
     git clone https://github.com/lucaluisi/erbacodes.git
-    cd erba_coders
+    cd erbacodes
     ```
 
 2. Install dependencies:
